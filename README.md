@@ -4,6 +4,6 @@
 
 Создание кастомных UI-компонентов.
 
-Отображение данных UITableView, UICillectionView.
+Отображение данных UITableView, UICollectionView.
 
 Создание различных анимаций.
